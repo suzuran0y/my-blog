@@ -1,3 +1,19 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    "HTML-CSS": { scale: 100 }
+  });
+</script>
+
+<div class="mathjax-content">
+
 # 一次使用 ChatGPT 5.5 Pro 的近期经历---蒂莫西·高尔斯
 
 > **原文信息**  
@@ -619,3 +635,5 @@ N(h,k)
 \]
 
 的数。
+
+</div>
