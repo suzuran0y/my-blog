@@ -1,6 +1,4 @@
 
-<div class="mathjax-content">
-
 # 一次使用 ChatGPT 5.5 Pro 的近期经历---蒂莫西·高尔斯
 
 > **原文信息**  
@@ -622,5 +620,3 @@ N(h,k)
 \]
 
 的数。
-
-</div>
